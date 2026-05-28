@@ -91,8 +91,5 @@ The analysis successfully maps the core operational blueprint of consumer lendin
 * **Strategic Co-Signing:** Combining financial resources via a co-applicant acts as the most viable path for lower-income brackets to reduce institutional risk profiles and access greater capital.
 * **Policy Adaptation:** The higher average incomes observed among the self-employed segment suggest that modern risk assessment models could benefit from expanding approval criteria beyond rigid corporate employment models to capture a growing pool of creditworthy alternative applicants.
 
----
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
