@@ -5,7 +5,6 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-An analytical data pipeline to decode and evaluate credit risk frameworks in consumer lending. This repository utilizes demographic, financial, and credit data to uncover the structural criteria governing risk assessment and loan distribution patterns.
 
 ---
 
